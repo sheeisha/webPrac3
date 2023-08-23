@@ -1,0 +1,12 @@
+#banner{
+    text-align: center;
+    color:brown;
+    text-shadow: 2px 2px burlywood;
+}
+#freebie{
+    text-align: center;
+}
+#cookie{
+
+    display: none;
+}
